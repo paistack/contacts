@@ -29,3 +29,8 @@ rails db:migrate
 
 * Go to http://localhost:3000/contacts/ after running migration to verify contacts page created with a form
 
+### Styling the app
+
+views -> contacts -> index.html.erb
+
+styled other view components
